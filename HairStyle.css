@@ -1,0 +1,228 @@
+body{
+	
+	
+	background-image: url("Pics/Theme3.jpg");
+	
+	
+}
+
+
+
+.T1 {
+	
+		text-align: center;
+		font-family:cursive;
+		font-style: italic;
+		color: #e75480;
+		font-size:50px;
+}
+
+
+
+.slider-frame{
+    overflow: hidden;
+    height: 500px;
+    width: 1200px;
+    margin-left: 360px;
+    margin-top: 20px;
+}
+
+
+
+@-webkit-keyframes slide_animation{
+    0% {left:0px;}
+    10% {left:0px;}
+    20% {left:1200px;}
+    30% {left:1200px;}
+    40% {left: 2400px;}
+    50% {left: 2400px;}
+    60% {left: 1200px;}
+    70% {left: 1200px;}
+    80% {left: 0px;}
+    90% {left: 0px;}
+    100% {left:0px;}
+}
+
+.slide-images{
+    width: 3600px;
+    height: 800px;
+    margin: 0 0 0 -2400px;
+    position: relative;
+    -webkit-animation-name: slide_animation;
+    -webkit-animation-duration: 33s;
+    -webkit-animation-iteration-count: infinite;
+    -webkit-animation-direction: alternate;
+    -webkit-animation-play-state: running;
+}
+
+.img-container{
+    height: 800px;
+    width: 1200px;
+    position: relative;
+    float: left;
+}
+
+
+
+
+
+.T2 {
+		position: absolute;
+		top:770px;
+		left:900px;
+		font-style: normal;
+		color: #FF47A4;
+		font-size:25px;
+}
+
+
+
+
+
+
+.drop_menu {
+	background:#FF9FCF;
+	padding:0;
+	margin:0;
+	list-style-type:none;
+	height:60px;
+	background-image:url('bg.jpg');
+	opacity: 0.6;
+}
+.drop_menu li { float:left; }
+.drop_menu li a {
+	padding:23px 90px;
+	display:block;
+	color:black;
+	text-decoration:none;
+	font:15px arial, verdana, sans-serif;
+	border-right:#FF9FCF;
+}
+
+/* Submenu */
+.drop_menu ul {
+	position:absolute;
+	left:-9999px;
+	top:-9999px;
+	list-style-type:none;
+}
+.drop_menu li:hover { position:relative; background:#FF9FCF;  }
+.drop_menu li:hover ul {
+	left:0px;
+	top:60px;
+	background:#FF9FCF;
+	padding:0px;
+}
+
+.drop_menu li:hover ul li a {
+	padding:10px;
+	display:block;
+	width:168px;
+	text-indent:15px;
+	background-color:#FF9FCF;
+}
+.drop_menu li:hover ul li a:hover { background:#FF86C3;  }
+
+
+
+
+
+
+
+.W1{
+	
+	
+	position:relative;
+	top:	150px;
+	left:	100px;
+	width:	300px;
+	height: 300px;
+	opacity: 0.9;
+	
+}
+
+.W2{
+	
+	
+	position:relative;
+	top:	150px;
+	left:	200px;
+	width:	300px;
+	height: 300px;
+	opacity: 0.9;
+	
+}
+
+.W3{
+	
+	
+	position:relative;
+	top:	150px;
+	left:	350px;
+	width:	300px;
+	height: 300px;
+	opacity: 0.9;
+	
+}
+
+.W4{
+	
+	
+	position:relative;
+	top:	150px;
+	left:	500px;
+	width:	300px;
+	height: 300px;
+	opacity: 0.9;
+	
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
