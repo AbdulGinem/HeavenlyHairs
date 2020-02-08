@@ -1,0 +1,44 @@
+[33mcommit dce127d1e3f9bcb2b2ed40d08b0515c9876fcca0[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: Abdul <abdul_ginem@yahoo.com>
+Date:   Fri Feb 7 19:48:01 2020 -0600
+
+    Added Cart Icon
+
+[33mcommit d90a4e132e458817c6edccd096b066abb687ed08[m
+Author: iTzProgrammer <34360387+coolabudlg19@users.noreply.github.com>
+Date:   Fri Feb 7 18:59:53 2020 -0800
+
+    added picks and links
+
+[33mcommit a3d64d27ef22165e5cdf058c2e1defda62de7a6e[m
+Merge: 2e1505f 2db8a81
+Author: Abdul <34360387+coolabudlg19@users.noreply.github.com>
+Date:   Wed Feb 5 18:15:40 2020 -0800
+
+    Merge pull request #1 from coolabudlg19/Navigation
+    
+    Added text nav
+
+[33mcommit 2db8a81ba4a40c9d175cff55287af74851ad8619[m[33m ([m[1;31morigin/Navigation[m[33m, [m[1;32mNavigation[m[33m)[m
+Author: iTzProgrammer <34360387+coolabudlg19@users.noreply.github.com>
+Date:   Wed Feb 5 20:13:11 2020 -0800
+
+    nav
+
+[33mcommit 2e1505f1d8fb7fee83135b5755d70648d71a8039[m
+Author: iTzProgrammer <34360387+coolabudlg19@users.noreply.github.com>
+Date:   Wed Feb 5 20:07:27 2020 -0800
+
+    test
+
+[33mcommit 2d7e8e780d362f83dba3c144a73150242f19c23c[m
+Author: iTzProgrammer <34360387+coolabudlg19@users.noreply.github.com>
+Date:   Wed Feb 5 20:05:01 2020 -0800
+
+    project
+
+[33mcommit 55b95fa46491ede09eeb09c87235bfc6ae1af095[m
+Author: Abdul <34360387+coolabudlg19@users.noreply.github.com>
+Date:   Wed Feb 5 18:02:09 2020 -0800
+
+    Initial commit

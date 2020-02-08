@@ -10,13 +10,26 @@ body{
 
 
 .T1 {
-	
+		position: relative;
 		text-align: center;
 		font-family:cursive;
 		font-style: italic;
 		color: #e75480;
 		font-size:50px;
+		top: -30px;
 }
+
+
+.T2 {
+	position: absolute;
+	top:800px;
+	left:900px;
+	font-style: normal;
+	color: #FF47A4;
+	font-size:25px;
+}
+
+
 
 
 
@@ -67,14 +80,7 @@ body{
 
 
 
-.T2 {
-		position: absolute;
-		top:770px;
-		left:900px;
-		font-style: normal;
-		color: #FF47A4;
-		font-size:25px;
-}
+
 
 
 
