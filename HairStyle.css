@@ -1,7 +1,8 @@
 body{
 	
 	
-	background-image: url("Pics/Theme3.jpg");
+	
+	background-color: rgba(255, 166, 206, 0.562);
 	background-repeat: no-repeat;
 	background-size: 1920px 1300px;
 	
@@ -23,8 +24,17 @@ body{
 
 .T2 {
 	position: absolute;
-	top:700px;
-	left:900px;
+	top:850px;
+	left:875px;
+	font-style: normal;
+	color: #FF47A4;
+	font-size:25px;
+}
+
+.T3 {
+	position: absolute;
+	top:1400px;
+	left:860px;
 	font-style: normal;
 	color: #FF47A4;
 	font-size:25px;
@@ -39,7 +49,7 @@ body{
     height: 500px;
     width: 1200px;
     margin-left: 500px;
-    margin-top: 20px;
+    margin-top: 50px;
 }
 
 
@@ -139,17 +149,7 @@ body{
 
 
 
-.W1{
-	
-	
-	position:relative;
-	top:	150px;
-	left:	100px;
-	width:	300px;
-	height: 300px;
-	opacity: 0.9;
-	
-}
+
 
 .S1{
 
@@ -189,11 +189,51 @@ body{
 	
 }
 
+.S5{
+
+	position: relative;
+	top: -5px;
+	left: 8px;
+	color : red;
+	
+}
+
+.S6{
+
+	position: relative;
+	top: -5px;
+	left: 8px;
+	color : red;
+	
+}
+
+
+.S7{
+
+	position: relative;
+	top: -5px;
+	left: 8px;
+	color : red;
+	
+}
+
+
+.S8{
+
+	position: relative;
+	top: -5px;
+	left: 8px;
+	color : red;
+	
+}
+
+
+
 
 
 .Oval1 {
 	position: absolute;
-	top:1080px;
+	top:1260px;
 	left:200px;
  	 height: 50px;
  	 width: 70px;
@@ -205,7 +245,7 @@ body{
 
 .Oval2 {
 	position: absolute;
-	top:1080px;
+	top:1260px;
 	left:640px;
  	 height: 50px;
  	 width: 70px;
@@ -218,7 +258,7 @@ body{
 
 .Oval3 {
 	position: absolute;
-	top:1080px;
+	top:1260px;
 	left:1100px;
  	 height: 50px;
  	 width: 70px;
@@ -230,7 +270,7 @@ body{
 
 .Oval4 {
 	position: absolute;
-	top:1080px;
+	top:1260px;
 	left:1570px;
  	 height: 50px;
  	 width: 70px;
@@ -241,7 +281,67 @@ body{
 }
 
 
+.Oval5 {
+	position: absolute;
+	top:1810px;
+	left:200px;
+ 	 height: 50px;
+ 	 width: 70px;
+  	background-color: rgba(238, 255, 0, 0.596);
+ 	 
+ 	border-radius: 50%;
 
+}
+
+.Oval6 {
+	position: absolute;
+	top:1810px;
+	left:640px;
+ 	 height: 50px;
+ 	 width: 70px;
+  	background-color: rgba(238, 255, 0, 0.596);
+ 	 
+ 	border-radius: 50%;
+
+}
+
+
+.Oval7 {
+	position: absolute;
+	top:1810px;
+	left:1100px;
+ 	 height: 50px;
+ 	 width: 70px;
+  	background-color: rgba(238, 255, 0, 0.596);
+ 	 
+ 	border-radius: 50%;
+
+}
+
+.Oval8 {
+	position: absolute;
+	top:1810px;
+	left:1570px;
+ 	 height: 50px;
+ 	 width: 70px;
+  	background-color: rgba(238, 255, 0, 0.596);
+ 	 
+ 	border-radius: 50%;
+
+}
+
+
+.W1{
+	
+	
+	position:relative;
+	top:	300px;
+	left:	100px;
+	width:	300px;
+	height: 300px;
+	opacity: 0.9;
+	
+}
 
 
 
@@ -249,7 +349,7 @@ body{
 	
 	
 	position:relative;
-	top:	150px;
+	top:	300px;
 	left:	200px;
 	width:	300px;
 	height: 300px;
@@ -262,7 +362,7 @@ body{
 	
 	
 	position:relative;
-	top:	150px;
+	top:	300px;
 	left:	350px;
 	width:	300px;
 	height: 300px;
@@ -274,13 +374,63 @@ body{
 	
 	
 	position:relative;
-	top:	150px;
+	top:	300px;
 	left:	500px;
 	width:	300px;
 	height: 300px;
 	opacity: 0.9;
 	
 }
+
+
+.W5{
+	
+	
+	position:absolute;
+	top:	1500px;
+	left:	100px;
+	width:	300px;
+	height: 300px;
+	opacity: 0.9;
+	
+}
+
+.W6{
+	
+	
+	position:absolute;
+	top:	1500px;
+	left:	510px;
+	width:	300px;
+	height: 300px;
+	opacity: 0.9;
+	
+}
+
+.W7{
+	
+	
+	position:absolute;
+	top:	1500px;
+	left:	980px;
+	width:	300px;
+	height: 300px;
+	opacity: 0.9;
+	
+}
+
+.W8{
+	
+	
+	position:absolute;
+	top:	1500px;
+	left:	1450px;
+	width:	300px;
+	height: 300px;
+	opacity: 0.9;
+	
+}
+
 
 .I1{
 	
