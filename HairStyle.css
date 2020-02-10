@@ -40,6 +40,49 @@ body{
 	font-size:25px;
 }
 
+.T4 {
+	position: absolute;
+	
+	font-family:cursive;
+	font-style: italic;
+	color: #e75480;
+	font-size:50px;
+	left:750px;
+	top: 90px;
+}
+
+
+.T5 {
+	position: absolute;
+	top:300px;
+	left:255px;
+	font-style: normal;
+	color: #FF47A4;
+	font-size:25px;
+}
+
+.T6 {
+	position: absolute;
+	top:300px;
+	left:860px;
+	font-style: normal;
+	color: #FF47A4;
+	font-size:25px;
+}
+
+.T7 {
+	position: absolute;
+	top:300px;
+	left:1450px;
+	font-style: normal;
+	color: #FF47A4;
+	font-size:25px;
+}
+
+
+
+
+
 
 
 
@@ -383,6 +426,12 @@ body{
 }
 
 
+
+
+
+
+
+
 .W5{
 	
 	
@@ -432,6 +481,52 @@ body{
 }
 
 
+
+.W21{
+	
+	
+	position:relative;
+	top:	300px;
+	left:	100px;
+	width:	300px;
+	height: 300px;
+	opacity: 0.9;
+	
+}
+
+
+.W22{
+	
+	
+	position:relative;
+	top:	300px;
+	left:	400px;
+	width:	300px;
+	height: 300px;
+	
+	opacity: 0.9;
+	
+}
+
+
+.W23{
+	
+	
+	position:relative;
+	top:	300px;
+	left:	700px;
+	width:	300px;
+	height: 300px;
+	opacity: 0.9;
+	
+}
+
+
+
+
+
+
+
 .I1{
 	
 	
@@ -455,6 +550,9 @@ body{
 	opacity: 0.9;
 	
 }
+
+
+
 
 .I3{
 	
