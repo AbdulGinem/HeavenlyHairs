@@ -530,8 +530,8 @@ body{
 .I1{
 	
 	
-	position:relative;
-	top:	150px;
+	position:absolute;
+	top:	330px;
 	left:	500px;
 	width:	100px;
 	height: 100px;
@@ -542,9 +542,9 @@ body{
 .I2{
 	
 	
-	position:relative;
-	top:	150px;
-	left:	600px;
+	position:absolute;
+	top:	330px;
+	left:	700px;
 	width:	100px;
 	height: 100px;
 	opacity: 0.9;
@@ -557,9 +557,9 @@ body{
 .I3{
 	
 	
-	position:relative;
-	top:	150px;
-	left:	700px;
+	position:absolute;
+	top:	330px;
+	left:	900px;
 	width:	100px;
 	height: 100px;
 	opacity: 0.9;
@@ -569,9 +569,9 @@ body{
 .I4{
 	
 	
-	position:relative;
-	top:	150px;
-	left:	800px;
+	position:absolute;
+	top:	330px;
+	left:	1100px;
 	width:	100px;
 	height: 100px;
 	opacity: 0.9;
